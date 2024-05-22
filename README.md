@@ -15,7 +15,7 @@ To get started with this app, follow these steps:
 2. **Install the dependencies:**
 
    ```bash
-   cd your-repo
+   cd ShiftBooking
    npm install
    ```
 
