@@ -1,6 +1,6 @@
-# React Native App
+# ShiftBooking App
 
-This is a React Native app that allows you to do XYZ.
+This is a ShiftBooking app for assessment purpose.
 
 ## Getting Started
 
@@ -9,7 +9,7 @@ To get started with this app, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/AbhishekGupta-33/ShiftBooking.git
    ```
 
 2. **Install the dependencies:**
